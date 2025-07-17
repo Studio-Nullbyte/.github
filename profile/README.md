@@ -1,4 +1,4 @@
-![](https://github.com/Studio-Nullbyte/.github/blob/main/images/Neo-Industrial%20Glyph.png))
+![](https://github.com/Studio-Nullbyte/.github/blob/main/images/Neo-Industrial%20Glyph.png)
 
 Hi! This is Studio Nullbyte
 
